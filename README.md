@@ -2,7 +2,7 @@
 
 <!--
 **neetesh1996/neetesh1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  **VideoCall- A web app for video calling**
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/neetesh/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
