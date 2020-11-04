@@ -6,6 +6,8 @@
 <a href="https://www.instagram.com/kshita_couture/">
   <img align="left" alt="Dikshita's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+![](https://visitor-badge.glitch.me/badge?page_id=neetesh96.neetesh96)
+<br />
 
 - 🔭 I’m currently working on  **VideoCall- A web app for video calling**
 - 🌱 I’m currently learning Amazon Web Services. 
