@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm Neetesh Kumar</h1>
+<h1 align="center">Namste 👋, I'm Neetesh Kumar</h1>
 
 <a href="https://www.linkedin.com/in/neetesh-kumar-🇮🇳-19545a141/">
   <img align="left" alt="Dikshita LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
