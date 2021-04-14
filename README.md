@@ -19,5 +19,5 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/neetesh-kumar-🇮🇳-19545a141/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+- ![](https://komarev.com/ghpvc/?username=neetesh1996)
 
