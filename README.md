@@ -20,6 +20,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/neetesh-kumar-🇮🇳-19545a141/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 📫 Latest Blog on Passwordless Authentcation [Medium](https://kumarneetesh.medium.com/passwordless-phone-or-email-authentication-with-amazon-cognito-in-nodejs-e620bc30b4c2)
+- 📫 Read My Latest Blog on [Medium](https://kumarneetesh.medium.com/passwordless-phone-or-email-authentication-with-amazon-cognito-in-nodejs-e620bc30b4c2)
 
 
