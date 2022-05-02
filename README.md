@@ -11,7 +11,7 @@
 <br />
 
 - ![](https://komarev.com/ghpvc/?username=neetesh1996&color=green)
-- 🔭 I’m currently working on  [Arkihive](https://arkihive.com/) Unsing NodeJs(Webpack) & SAM architecture with AWS serverless services.
+- 🔭 I’m currently working on  [Arkihive](https://arkihive.com/) Unsing NodeJs(Webpack) & SAM and serverless architecture with AWS serverless services.
 - 🌱 I had worked on  **[VideoCall](https://callonvideo.herokuapp.com/)- A web app for video calling**
 - 🌱 I’m currently learning Amazon Web Services. 
 - 👯 I’m looking to collaborate on opensource projects
